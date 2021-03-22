@@ -50,6 +50,6 @@ To reboot the nodes:
 ![](POA\ Development\ Chain/Screenies/address.png)
 4. Click 'Check TX Status' to see if transaction is successful!
 ![](/POA Development Chain/Screenies/check_tx_status.png)
-![](/POA\ Development\ Chain/Screenies/not_pending.png)
+![](C:\Users\Ren\Desktop\blockchain_homework\POA Development Chain\Screenies\not_pending.png)
 
 #### Thank you, stay hydrated.
