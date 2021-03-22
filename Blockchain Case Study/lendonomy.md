@@ -2,11 +2,11 @@
 ![](https://changelly.com/blog/wp-content/uploads/2020/01/lendonomy.png)
 ## What is Lendonomy?
 
-Lendonomy is a Norwegian-based Fintech Company which provides a peer-2-peer (P2P) "social lending" platform, specifically targetted at young adults. Dubbed "AirBnB for money", Lendonomy is a monile app which combines social networking, augmented reality  and gamification in an attempt to motivate young people to support each other financially by sharing money all over the world!
+Lendonomy is a Norwegian-based Fintech Company which provides a peer-2-peer (P2P) "social lending" platform, specifically targetted at young adults. Dubbed "AirBnB for money", Lendonomy is a mobile app which combines social networking, augmented reality  and gamification in an attempt to motivate young people to support each other financially by sharing money all over the world!
 
 Users exist within commonly shared pools of money where they are able to simultaneously borrow and lend money. First time users concur limits to these amounts however a 'Trust Score' is accrued onto the ethereum network via smart contracts. The Trust Score is a universally recognisable score which is akin to a credit score, allowing users to better their score and improve lending rates.
 
-Lendonomy also communicates with open banking api's where and defaults on loans can be reflected in the users real life credit score.
+Lendonomy also communicates with open banking api's where a default on a loan can be reflected in the users real life credit score.
 
 ![](https://www.disruptordaily.com/wp-content/uploads/2019/06/Lendonomy-1-e1559522629438.png)
 ## Why this matters.
@@ -25,5 +25,3 @@ A univerally recognised credit score may just be what is needed to get everyday 
 
 * [Lendonomy - About Us](https://lendonomy.io/about/)
 * [Disrupt or Daily - Interview](https://www.disruptordaily.com/blockchain-lending-use-case-lendonomy/)
-* []
-
