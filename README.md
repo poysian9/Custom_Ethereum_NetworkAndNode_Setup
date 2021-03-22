@@ -1,6 +1,6 @@
 # Teethereum Network Setup and Reboot
 
-## Dependencies:
+## Dependencies
 * Python v3.8.5
 * Before running the blockchain you will need a way to send/store tokens and check transactions, we recommend: [MyCrypto.](https://download.mycrypto.com/)
 * You will also need: [Go Ethereum Tools](https://geth.ethereum.org/downloads/) to run geth commands in your bash terminal.
@@ -30,9 +30,11 @@ To reboot the nodes:
 * --bootnodes value: Comma separated enode URLs for P2P discovery bootstrap
 * --ipcdisable: Disable the IPC-RPC server
 * --allow-insecure-unlock: Allow insecure account unlocking when account-related RPCs are exposed by http
-![](POA\ Development\ Chain/Screenies/teeth.png)
+![teeth](https://user-images.githubusercontent.com/73380920/111959353-757a8c00-8b42-11eb-914f-f2dd6fc486eb.png)
+
 ## Network configuration
-![](POA\ Development\ Chain/Screenies/TeethereumConfig.png)
+![TeethereumConfig](https://user-images.githubusercontent.com/73380920/111959342-6f84ab00-8b42-11eb-89de-23f4d5836465.png)
+
 * Network Name: Teethereum
 * Chain ID: 49
 * Tooth1 Port: 30303
@@ -42,14 +44,19 @@ To reboot the nodes:
 
 ## Connecting MyCrypto to Teethereum
 1. Create custom network making sure to point to the exposed RPC port (http://127.0.0.1:8545), using the same chain ID (49) and currency (ETH) and click save.
-![](POA\ Development\ Chain/Screenies/change_network.png)
-![](POA\ Development\ Chain/Screenies/node_setup.png)
-2. Now open your wallet with your tooth1 keystore file located in the same directory and enter the password.
-![](POA\ Development\ Chain/Screenies/keystore_file.png)
-3. In the 'To Address' box type in the address of tooth2 and the amount you would like to send, hit send.
-![](POA\ Development\ Chain/Screenies/address.png)
-4. Click 'Check TX Status' to see if transaction is successful!
-![](POA\ Development\ Chain/Screenies/check_tx_status.png)
-![](POA\ Development\ Chain/Screenies/not_pending.png)
+![change_network](https://user-images.githubusercontent.com/73380920/111959249-50861900-8b42-11eb-8fd1-d473016a12bf.png)
 
-#### Thank you, stay hydrated.
+![node_setup](https://user-images.githubusercontent.com/73380920/111959279-5a0f8100-8b42-11eb-9829-f4d5513e840f.png)
+
+2. Now open your wallet with your tooth1 keystore file located in the same directory and enter the password.
+![keystore_file](https://user-images.githubusercontent.com/73380920/111959310-61368f00-8b42-11eb-910d-329627848904.png)
+
+3. In the 'To Address' box type in the address of tooth2 and the amount you would like to send, hit send.
+![address](https://user-images.githubusercontent.com/73380920/111959319-65fb4300-8b42-11eb-9b13-10aaf4fe6449.png)
+
+4. Click 'Check TX Status' to see if transaction is successful!
+![check_tx_status](https://user-images.githubusercontent.com/73380920/111959195-406e3980-8b42-11eb-9194-830759d5d1de.png)
+
+![not_pending](https://user-images.githubusercontent.com/73380920/111959156-32b8b400-8b42-11eb-9507-13a39e235353.png)
+
+### Thank you, stay hydrated.
