@@ -30,9 +30,9 @@ To reboot the nodes:
 * --bootnodes value: Comma separated enode URLs for P2P discovery bootstrap
 * --ipcdisable: Disable the IPC-RPC server
 * --allow-insecure-unlock: Allow insecure account unlocking when account-related RPCs are exposed by http
-![](POA\ Development\ Chain/Screenies/teeth.png)
+![.](POA\ Development\ Chain/Screenies/teeth.png)
 ## Network configuration
-![](POA\ Development\ Chain/Screenies/TeethereumConfig.png)
+![](POA Development Chain/Screenies/TeethereumConfig.png)
 * Network Name: Teethereum
 * Chain ID: 49
 * Tooth1 Port: 30303
